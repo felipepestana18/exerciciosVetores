@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\bin\Debug\net6.0\ExerciciosNumerosMaior50.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\bin\Debug\net6.0\ExerciciosNumerosMaior50.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\bin\Debug\net6.0\ExerciciosNumerosMaior50.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\bin\Debug\net6.0\ExerciciosNumerosMaior50.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\bin\Debug\net6.0\ExerciciosNumerosMaior50.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\refint\ExerciciosNumerosMaior50.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ExerciciosNumerosMaior50.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExerciciosNumerosMaior50\obj\Debug\net6.0\ref\ExerciciosNumerosMaior50.dll
