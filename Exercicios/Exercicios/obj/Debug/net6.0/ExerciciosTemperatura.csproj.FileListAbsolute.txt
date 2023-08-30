@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\bin\Debug\net6.0\ExerciciosTemperatura.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\bin\Debug\net6.0\ExerciciosTemperatura.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\bin\Debug\net6.0\ExerciciosTemperatura.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\bin\Debug\net6.0\ExerciciosTemperatura.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\bin\Debug\net6.0\ExerciciosTemperatura.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\refint\ExerciciosTemperatura.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ExerciciosTemperatura.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\Exercicios\obj\Debug\net6.0\ref\ExerciciosTemperatura.dll
