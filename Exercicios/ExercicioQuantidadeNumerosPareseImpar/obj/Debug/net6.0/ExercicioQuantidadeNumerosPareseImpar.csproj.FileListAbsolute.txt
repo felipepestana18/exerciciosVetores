@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\bin\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\bin\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\bin\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\bin\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\bin\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\refint\ExercicioQuantidadeNumerosPareseImpar.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ExercicioQuantidadeNumerosPareseImpar.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioQuantidadeNumerosPareseImpar\obj\Debug\net6.0\ref\ExercicioQuantidadeNumerosPareseImpar.dll
