@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioVetorInversa/1.0.0": {
+        "runtime": {
+          "ExercicioVetorInversa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioVetorInversa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

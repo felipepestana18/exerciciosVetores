@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosNumerosMaior50", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioQuantidadeNumerosPareseImpar", "ExercicioQuantidadeNumerosPareseImpar\ExercicioQuantidadeNumerosPareseImpar.csproj", "{CAFF9EC7-C531-478C-9B0C-6291539DB63B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioVetorInversa", "ExercicioVetorInversa\ExercicioVetorInversa.csproj", "{CA9C6713-6A77-4888-A2B3-3FE31F4D4E32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CAFF9EC7-C531-478C-9B0C-6291539DB63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAFF9EC7-C531-478C-9B0C-6291539DB63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFF9EC7-C531-478C-9B0C-6291539DB63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9C6713-6A77-4888-A2B3-3FE31F4D4E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9C6713-6A77-4888-A2B3-3FE31F4D4E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9C6713-6A77-4888-A2B3-3FE31F4D4E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9C6713-6A77-4888-A2B3-3FE31F4D4E32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

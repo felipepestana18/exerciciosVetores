@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\bin\Debug\net6.0\ExercicioVetorInversa.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\bin\Debug\net6.0\ExercicioVetorInversa.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\bin\Debug\net6.0\ExercicioVetorInversa.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\bin\Debug\net6.0\ExercicioVetorInversa.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\bin\Debug\net6.0\ExercicioVetorInversa.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\refint\ExercicioVetorInversa.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ExercicioVetorInversa.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioVetorInversa\obj\Debug\net6.0\ref\ExercicioVetorInversa.dll
