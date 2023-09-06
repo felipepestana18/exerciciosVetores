@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\bin\Debug\net6.0\ExercicioInterligacaoVetores.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\bin\Debug\net6.0\ExercicioInterligacaoVetores.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\bin\Debug\net6.0\ExercicioInterligacaoVetores.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\bin\Debug\net6.0\ExercicioInterligacaoVetores.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\bin\Debug\net6.0\ExercicioInterligacaoVetores.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\refint\ExercicioInterligacaoVetores.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ExercicioInterligacaoVetores.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioInterligacaoVetores\obj\Debug\net6.0\ref\ExercicioInterligacaoVetores.dll

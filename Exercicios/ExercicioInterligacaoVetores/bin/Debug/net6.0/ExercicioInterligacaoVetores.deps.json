@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioInterligacaoVetores/1.0.0": {
+        "runtime": {
+          "ExercicioInterligacaoVetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioInterligacaoVetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
