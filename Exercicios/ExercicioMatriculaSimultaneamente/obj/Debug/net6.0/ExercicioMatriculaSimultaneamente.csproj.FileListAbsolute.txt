@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\bin\Debug\net6.0\ExercicioMatriculaSimultaneamente.exe
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\bin\Debug\net6.0\ExercicioMatriculaSimultaneamente.deps.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\bin\Debug\net6.0\ExercicioMatriculaSimultaneamente.runtimeconfig.json
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\bin\Debug\net6.0\ExercicioMatriculaSimultaneamente.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\bin\Debug\net6.0\ExercicioMatriculaSimultaneamente.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\refint\ExercicioMatriculaSimultaneamente.dll
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.pdb
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ExercicioMatriculaSimultaneamente.genruntimeconfig.cache
+C:\Users\Pichau\Documents\Exercicios de Vetores\Exercicios\ExercicioMatriculaSimultaneamente\obj\Debug\net6.0\ref\ExercicioMatriculaSimultaneamente.dll
