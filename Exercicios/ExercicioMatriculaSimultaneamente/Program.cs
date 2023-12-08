@@ -4,6 +4,8 @@ int[] matriculaProgramacao = new int[10];
 int[] alunosMatriculadoNaDuasMaterias = new int[5];
 int index = 0;
 
+
+
 for (int i = 0; i < 5; i++)
 {
     Console.WriteLine("Digite sua Mátricula de calculo: ");
